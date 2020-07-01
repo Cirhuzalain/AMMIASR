@@ -1,4 +1,4 @@
-## Data collection for Speech Recognition Class
+## Data collection for Speech Recognition Course
 
 Taught by [Gabriel Synnaeve](https://scholar.google.com/citations?user=wN9rBkcAAAAJ&hl=en), [Emmanuel Dupoux
 ](https://scholar.google.com/citations?user=94c1abIAAAAJ&hl=en) and [Laurent Besacier](https://scholar.google.com/citations?user=Uu-ivVwAAAAJ&hl=fr)
